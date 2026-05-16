@@ -14,7 +14,7 @@ function App() {
     setWeather(data);
     setLoading(false);
   };
-
+  
   return (
     <div className="app">
       <h1>🌤 Weather App</h1>
